@@ -23,13 +23,16 @@ This is what the finished keyer looks like
 
 
 ![Captura de pantalla 2023-06-16 a las 12 49 48](https://github.com/joanperelopez/CW-Keyer/assets/73885181/2a790ab7-54cd-44c1-9e68-d06a6f1f6f74)
+Exploded view of all the components of the CW keyer
 
 
 ![Captura de pantalla 2023-06-16 a las 12 50 18](https://github.com/joanperelopez/CW-Keyer/assets/73885181/6ed3bf15-15de-4d82-bf1b-fd4c62183c07)
+Exploded view of all the components of the CW keyer
 
 
 ![Keyer_MEGA2560_Bot](https://github.com/joanperelopez/CW-Keyer/assets/73885181/5dc6906c-0240-44d7-8b2c-253aef7dc57e)
 Bottom side of the main PCB
+
 
 ![Keyer_MEGA2560_top](https://github.com/joanperelopez/CW-Keyer/assets/73885181/cdc65c55-eba2-46f9-9405-1102c7109753)
 Top side of the main PCB
