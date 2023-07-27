@@ -2,8 +2,8 @@
 
 This project was started in April 2023 based in the CW keyer of K3NG. 
 I also took advantage of the good work of K5BCQ by incorporating the MEGA2560 processor. My contribution to the project has been very humble: 
-  1. I have made a new PCB with SMD components. 
-  2. the incorporation of a 20x4 display.
+  1. I have made a new schematic and PCB with SMD components. 
+  2. The incorporation of a 20x4 LCD display.
   3. 3D design of a box for the entire new project.
   4. Galvanic isolation of inputs and outputs. (Optocouplers and audio transformer).
   5. Side tone regulation.
