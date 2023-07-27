@@ -13,6 +13,8 @@ NOTES: All documentation belongs to version 1 of the project. In this version I 
 
 For the software you can go to the author's page: https://github.com/k3ng/k3ng_cw_keyer
 You can consult the K5BCQ page for all the information related to the modifications to use the MEGA2560: https://github.com/costonisp/CW-keyer-K3NG-K5BCQ
+Feel free to copy or modify this project as long as it is not for commercial purposes.
+
 
 ![Captura de pantalla 2023-06-16 a las 12 59 41](https://github.com/joanperelopez/CW-Keyer/assets/73885181/52b9df4b-be5e-4b8a-b31a-4444ec15f181)
 This is what the finished keyer looks like
