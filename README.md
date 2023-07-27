@@ -13,7 +13,7 @@ NOTES: All documentation belongs to version 1 of the project. In this version I 
 
 For download the software, setup and documentation you can go to the author's repository: https://github.com/k3ng/k3ng_cw_keyer
 
-You can consult the K5BCQ repository for all the information related to the modifications to use the MEGA2560: https://github.com/costonisp/CW-keyer-K3NG-K5BCQ
+You can consult the K5BCQ's repository for all the information related to the modifications to use the MEGA2560: https://github.com/costonisp/CW-keyer-K3NG-K5BCQ
 
 Feel free to copy or modify this project as long as it is not for commercial purposes.
 
