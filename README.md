@@ -7,6 +7,7 @@ I also took advantage of the good work of K5BCQ by incorporating the MEGA2560 pr
   3. 3D design of a box for the entire new project.
   4. Galvanic isolation of inputs and outputs.
   5. Side tone regulation.
+  6. USB interface.
 
 NOTES: All documentation belongs to version 1 of the project. In this version I saw that the volume of the speaker is not very loud and I made some modifications in the 1.2 schematic that are not implemented in the current PCB. If someone wants to add these modifications they can modify the current PCB or, as is my case, add them manually.
 
