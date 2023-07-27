@@ -1,11 +1,17 @@
 # CW keyer based on K3NG and K5BCQ work
 
 This project was started in April 2023 based in the CW keyer of K3NG. 
-I also took advantage of the good work of K5BCQ by incorporating the MEGA2560 processor. My contribution to the project has been very humble: I have only made a new PCB with SMD components, the incorporation of a 20x4 display and the 3D design of a box for the entire new project.
+I also took advantage of the good work of K5BCQ by incorporating the MEGA2560 processor. My contribution to the project has been very humble: 
+  1. I have made a new PCB with SMD components. 
+  2. the incorporation of a 20x4 display.
+  3. 3D design of a box for the entire new project.
+  4. Galvanic isolation of inputs and outputs.
+  5. Side tone regulation.
 
 NOTES: All documentation belongs to version 1 of the project. In this version I saw that the volume of the speaker is not very loud and I made some modifications in the 1.2 schematic that are not implemented in the current PCB. If someone wants to add these modifications they can modify the current PCB or, as is my case, add them manually.
 
 For the software you can go to the author's page: https://github.com/k3ng/k3ng_cw_keyer
+You can consult the K5BCQ page for all the information related to the modifications to use the MEGA2560: https://github.com/costonisp/CW-keyer-K3NG-K5BCQ
 
 ![Captura de pantalla 2023-06-16 a las 12 59 41](https://github.com/joanperelopez/CW-Keyer/assets/73885181/52b9df4b-be5e-4b8a-b31a-4444ec15f181)
 This is what the finished keyer looks like
