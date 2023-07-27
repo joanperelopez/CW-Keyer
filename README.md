@@ -39,6 +39,7 @@ Top side of the main PCB
 
 
 ![Captura de pantalla 2023-05-22 a las 22 58 55](https://github.com/joanperelopez/CW-Keyer/assets/73885181/115a44cf-1f6d-4b32-ad12-65a3d081beee)
-
+PCB Top view
 
 ![Captura de pantalla 2023-05-22 a las 22 58 15](https://github.com/joanperelopez/CW-Keyer/assets/73885181/389d4e6a-cd4c-483b-a859-c02cf968e725)
+PCB Bottom view
