@@ -15,6 +15,7 @@ This is what the finished keyer looks like
 
 
 ![Keyer_MEGA2560_Bot](https://github.com/joanperelopez/CW-Keyer/assets/73885181/5dc6906c-0240-44d7-8b2c-253aef7dc57e)
+Bottom side of the main PCB
 
 ![Keyer_MEGA2560_top](https://github.com/joanperelopez/CW-Keyer/assets/73885181/cdc65c55-eba2-46f9-9405-1102c7109753)
-
+Top side of the main PCB
