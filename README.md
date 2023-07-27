@@ -11,7 +11,7 @@ I also took advantage of the good work of K5BCQ by incorporating the MEGA2560 pr
 
 NOTES: All documentation belongs to version 1 of the project. In this version I saw that the volume of the speaker is not very loud and I made some modifications in the 1.2 schematic that are not implemented in the current PCB. If someone wants to add these modifications they can modify the current PCB or, as is my case, add them manually.
 
-For the software, setup and documentation you can go to the author's repository: https://github.com/k3ng/k3ng_cw_keyer
+For download the software, setup and documentation you can go to the author's repository: https://github.com/k3ng/k3ng_cw_keyer
 
 You can consult the K5BCQ repository for all the information related to the modifications to use the MEGA2560: https://github.com/costonisp/CW-keyer-K3NG-K5BCQ
 
