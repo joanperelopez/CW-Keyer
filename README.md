@@ -47,3 +47,9 @@ PCB Top view
 
 ![Captura de pantalla 2023-05-22 a las 22 58 15](https://github.com/joanperelopez/CW-Keyer/assets/73885181/389d4e6a-cd4c-483b-a859-c02cf968e725)
 PCB Bottom view
+
+
+
+https://github.com/user-attachments/assets/0f88c8ea-a7e5-4cd0-9d64-bd676a6b64a1
+
+
